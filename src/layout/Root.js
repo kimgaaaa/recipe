@@ -5,8 +5,7 @@ import Navi from './Navi';
 const Root = () => {
    return (
       <App>
-         <Navi />
-         <Outlet />
+         
       </App>
    );
 };
